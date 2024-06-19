@@ -32,7 +32,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local:
     ```bash
     cp .env.example .env
 
-    - Edita el archivo .env con las credenciales de tu base de datos y las del servidor de correo.
+- Edita el archivo .env con las credenciales de tu base de datos y las del servidor de correo.
 
 4. **Genera la clave de la app:**
     ```bash
