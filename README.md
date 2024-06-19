@@ -103,6 +103,5 @@ Esta prueba unitaria valida el proceso de actualización de un vehículo en el s
 
 Para realizar la prueba hay que ejecutar el codigo:
 
-    ```bash
     php artisan test --filter=UpdateVehicleTest
 
