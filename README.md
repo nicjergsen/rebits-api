@@ -4,6 +4,8 @@
 
 Rebits API es un sistema básico de mantención de vehículos que permite la gestión de vehículos y usuarios, incluyendo la capacidad de cambiar el dueño de un vehículo y mantener un histórico de dueños.
 
+El sistema está conformado por una API Rest desarrollada en Laravel y por parte del front se desarrolla una SPA usando VueJs que consume esta API.
+
 ## Tecnologías
 
 - **Backend:** Laravel 8
