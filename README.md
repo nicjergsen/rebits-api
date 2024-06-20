@@ -46,6 +46,10 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local:
     ```bash
     npm run dev
 
+7. **Levanta el sitio:**
+    ```bash
+    php artisan serve
+
 
 ## Uso
 
